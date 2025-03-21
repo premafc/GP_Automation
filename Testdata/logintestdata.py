@@ -1,6 +1,6 @@
 # Login Valid Credentials :
 
-valid_username = "prem25@yopmail.com"
+valid_username = "test5@yopmail.com"
 valid_password = "prem@123"
 
 valid_username_nri = "gp49@yopmail.com"
