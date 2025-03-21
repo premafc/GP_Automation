@@ -1,5 +1,5 @@
 # Login page locators:
-test = ""
+
 username = '//input[@id="email"]'
 password = '//input[@type="password"]'
 login_button = '//button[@class="login_btn"]'
