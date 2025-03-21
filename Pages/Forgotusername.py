@@ -7,7 +7,7 @@ from Locators import Forogotusernamelocators
 from Testdata import Forgotusernametestdata
 
 class Forgotusername:
-
+ 
     def __init__(self, driver):
         self.driver = driver
 

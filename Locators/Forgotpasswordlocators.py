@@ -1,6 +1,5 @@
 
 # Forgot password XPaths :
-
 Forgot_password = "//*[text() ='Forgot Password']"
 Forgot_password_Email = '//*[@id="Email"]'
 Send_OTP = "//*[text() = 'Send OTP']"
